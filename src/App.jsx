@@ -13,7 +13,7 @@ import {
   X,
 } from "lucide-react";
 import { useState } from "react";
-import heroImage from "./assets/aishwarya-hero.png";
+import heroImage from "./assets/aishwarya-hero.jpg";
 
 const navLinks = ["About", "Skills", "Projects", "Education", "Contact"];
 
